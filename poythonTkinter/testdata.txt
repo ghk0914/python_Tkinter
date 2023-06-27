@@ -1,0 +1,6 @@
+watermelon 西瓜
+lemon 檸檬
+orange 橘子
+apple 蘋果
+peach 桃子
+pineapple 鳳梨
